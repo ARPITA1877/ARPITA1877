@@ -2,7 +2,7 @@
  
 ### 🚀 Python Full Stack Developer | MCA Student | Building Scalable Web Applications
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer;MCA+Student;Open+to+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Python+Full+Stack+Developer;MCA+Student;Open+to+Opportunities)](https://git.io/typing-svg)
  
 <img src="./profile.jpeg" alt="Arpita Jogdand" width="180" style="border-radius: 50%;" />
 ---
@@ -32,7 +32,7 @@
 ## ⚙️ Backend
 - 🍃 Spring Boot
 - 🔗 REST API
--     Djang
+- 🎯 Django
 ## 🗄️ Database
 - 🐬 MySQL
 - 📦 SQLite
