@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arpita Jogdand
  
-### 🚀 Java Full Stack Developer | MCA Student | Building Scalable Web Applications
+### 🚀 Python Full Stack Developer | MCA Student | Building Scalable Web Applications
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer;MCA+Student;Open+to+Opportunities)](https://git.io/typing-svg)
  
@@ -12,9 +12,9 @@
 🎓 Pursuing **Master of Computer Applications (MCA)** — International Institute of Management Science, Chinchwad, Pune
 🎓 **Bachelor of Computer Applications** (79%) — Institute of Technology and Management, Nanded
  
-💻 Motivated developer with strong knowledge of Java, Spring Boot, HTML, CSS, JavaScript, MySQL, and Python. Passionate about building scalable web applications.
+💻 Motivated developer with strong knowledge of Python, Django, HTML, CSS, JavaScript, MySQL, and Python ,Spring Boot. Passionate about building scalable web applications.
  
-🎯 Eager to contribute as a **Java Full Stack Developer**
+🎯 Eager to contribute as a **Python Full Stack Developer**
  
 ---
  
@@ -32,6 +32,7 @@
 ## ⚙️ Backend
 - 🍃 Spring Boot
 - 🔗 REST API
+-     Djang
 ## 🗄️ Database
 - 🐬 MySQL
 - 📦 SQLite
@@ -48,7 +49,7 @@
 | Project | Description | Tools Used |
 |---|---|---|
 | **Smart Assessment & Learning Platform** | Student/Admin login system with quiz, assignment, and dashboard features | Java Spring Boot, MySQL, HTML, CSS, JavaScript |
-| **Pension Registration Management System** | Pension registration and application tracking system | PHP, MySQL, HTML, CSS |
+| **Pension Registration Management System** | Pension registration and application tracking system | PHP, MySQL, HTML, CSS  |
  
 ---
  
